@@ -37,7 +37,7 @@ I'm a Frontend Web Developer (https://www.facebook.com/menb1311395/). I Spend mo
 
 <!--START_SECTION:waka-->
 ```text
-React Native ![50%](https://progress-bar.dev/50) 85.29 % 
+React Native https://progress-bar.dev/80/ 85.29 % 
 ReactJS      █████████████████▓░░░░░░░   82.29 % 
 NodeJS       ███████████▓░░░░░░░░░░░░░   35.25 % 
 HTML & CSS   █████████████▒░░░░░░░░░░░   47.61 % 
