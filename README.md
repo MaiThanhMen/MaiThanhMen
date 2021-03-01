@@ -37,10 +37,10 @@ I'm a Frontend Web Developer (https://www.facebook.com/menb1311395/). I Spend mo
 
 <!--START_SECTION:waka-->
 ```text
-React Native      ████████████████████▓░░░░   85.29 % 
+React Native ████████████████████▓░░░░   85.29 % 
 ReactJS      █████████████████▓░░░░░░░   82.29 % 
-HTML & CSS   █████████████▒░░░░░░░░░░░   09.61 % 
-Markdown     █████████████░░░░░░░░░░░░   07.63 % 
-Other        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+NodeJS       ███████████▓░░░░░░░░░░░░░   35.25 % 
+HTML & CSS   █████████████▒░░░░░░░░░░░   47.61 % 
+Markdown     ██████████████▒░░░░░░░░░░   49.63 % 
 ```
 <!--END_SECTION:waka-->
