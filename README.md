@@ -1,6 +1,8 @@
 ## Hi I'm Mai Thanh Men <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm a Frontend Web Developer (https://www.facebook.com/menb1311395/). I Spend most of time coding outstanding projects or learning new technologies.
+I am Frontend Web Developer (https://www.facebook.com/mtmen1995).
+I spend most of my time learning new technologies by myself and coding outstanding projects. 
+My life motto is "The journey of a thousand miles begins with one step." and always try to build myself better each day
 
 :mailbox: Reach me out!
 
