@@ -9,10 +9,10 @@ I'm a Frontend Web Developer (https://www.facebook.com/menb1311395/). I Spend mo
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently working at @CUSC
-- :computer: Most used line of code `git commit -m "Initial Commit"`
+- :computer: Most used line of code `npx react-native run-android`
 - 📫 How to reach me: mtmen1995@gmail.com.
 - 😄 Pronouns: Men, DevMTM, MaiThanhMen.
-- ⚡ Fun fact: I play games and football very often.
+- ⚡ Fun fact: I play football very often.
 
 #### Top Technologies
 
@@ -37,10 +37,10 @@ I'm a Frontend Web Developer (https://www.facebook.com/menb1311395/). I Spend mo
 
 <!--START_SECTION:waka-->
 ```text
-React Native ████████████████████▓░░░░   85.29 % 
+React Native ![50%](https://progress-bar.dev/50) 85.29 % 
 ReactJS      █████████████████▓░░░░░░░   82.29 % 
 NodeJS       ███████████▓░░░░░░░░░░░░░   35.25 % 
 HTML & CSS   █████████████▒░░░░░░░░░░░   47.61 % 
-Markdown     ██████████████▒░░░░░░░░░░   49.63 % 
+Markdown     ██████████████░░░░░░░   49.63 %
 ```
 <!--END_SECTION:waka-->
