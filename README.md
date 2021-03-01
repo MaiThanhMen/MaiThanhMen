@@ -36,11 +36,10 @@ I'm a Frontend Web Developer (https://www.facebook.com/menb1311395/). I Spend mo
 #### Coding Stats
 
 <!--START_SECTION:waka-->
-```text
-React Native https://progress-bar.dev/80/ 85.29 % 
-ReactJS      █████████████████▓░░░░░░░   82.29 % 
-NodeJS       ███████████▓░░░░░░░░░░░░░   35.25 % 
-HTML & CSS   █████████████▒░░░░░░░░░░░   47.61 % 
-Markdown     ██████████████░░░░░░░   49.63 %
-```
+- React Native ![Progress](https://progress-bar.dev/80/)
+- ReactJS ![Progress](https://progress-bar.dev/78/) 
+- NodeJS (ExpressJS) ![Progress](https://progress-bar.dev/45/) 
+- HTML & CSS   ![Progress](https://progress-bar.dev/70/) 
+- PHP     ![Progress](https://progress-bar.dev/60/) 
+- Markdown     ![Progress](https://progress-bar.dev/70/) 
 <!--END_SECTION:waka-->
