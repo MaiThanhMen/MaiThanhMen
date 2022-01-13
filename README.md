@@ -1,6 +1,6 @@
 ## Hi I'm Mai Thanh Men <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I am Frontend Web Developer (https://www.facebook.com/mtmen.official).
+I am JavaScript Web Developer (https://www.facebook.com/mtmen.official).
 I spend most of my time learning new technologies by myself and coding outstanding projects. 
 My life motto is "The journey of a thousand miles begins with one step." and always try to build myself better each day
 
@@ -10,11 +10,11 @@ My life motto is "The journey of a thousand miles begins with one step." and alw
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @CUSC
-- :computer: Most used line of code `npx react-native run-android`
+- 🔭 I’m currently working at Groove Technology Vietnam
+- :computer: Most used line of code /* FIX TEMP BUGS */
 - 📫 How to reach me: mtmen1995@gmail.com.
-- 😄 Pronouns: Men, DevMTM, MaiThanhMen.
-- ⚡ Fun fact: I play football very often.
+- 😄 Pronouns: Men, DevMTM, Mai Thanh Men.
+- ⚡ Fun fact: I am a very sincere person
 
 #### Top Technologies
 
@@ -38,10 +38,12 @@ My life motto is "The journey of a thousand miles begins with one step." and alw
 #### Coding Stats
 
 <!--START_SECTION:waka-->
-- React Native ![Progress](https://progress-bar.dev/80/)
-- ReactJS ![Progress](https://progress-bar.dev/78/) 
-- NodeJS (ExpressJS) ![Progress](https://progress-bar.dev/45/) 
-- HTML & CSS   ![Progress](https://progress-bar.dev/70/) 
-- PHP     ![Progress](https://progress-bar.dev/60/) 
-- Markdown     ![Progress](https://progress-bar.dev/70/) 
+
+- ReactJS       ![Progress](https://progress-bar.dev/80/)
+- NodeJS        ![Progress](https://progress-bar.dev/80/)
+- React Native  ![Progress](https://progress-bar.dev/75/)
+- HTML5 & CSS3  ![Progress](https://progress-bar.dev/70/)
+- PHP           ![Progress](https://progress-bar.dev/65/)
+- SQL           ![Progress](https://progress-bar.dev/60/)
+  
 <!--END_SECTION:waka-->
